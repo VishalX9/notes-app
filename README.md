@@ -14,6 +14,9 @@ A simple and lightweight personal notes app built with **React**, **Redux**, and
 
 ---
 
+## 🔗 Live Demo
+👉 https://notes-app-gfbo.vercel.app/
+
 ## 🧰 Tech Stack
 
 - **Frontend:** React.js, Redux Toolkit, Tailwind CSS
